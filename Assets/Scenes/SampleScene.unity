@@ -271,8 +271,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.202259, y: 0.4303481, z: -0.09957729, w: 0.87405735}
-  m_LocalPosition: {x: -10.309418, y: 30.54596, z: -3.1982727}
+  m_LocalRotation: {x: -0.092064835, y: -0.4477406, z: 0.046416618, w: -0.8881992}
+  m_LocalPosition: {x: 14.919579, y: 6.416935, z: 22.216873}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -905,6 +905,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1507636620937791777, guid: 7097ba7ba649e1f41bba232312bdcbd8, type: 3}
   m_PrefabInstance: {fileID: 643156672}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &747556535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3552726249261702214, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+  m_PrefabInstance: {fileID: 1602746347}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 747556536}
+  m_Layer: 0
+  m_Name: MangaMinigame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &747556536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+  m_PrefabInstance: {fileID: 1602746347}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 747556535}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 29.004547, y: 5.0016165, z: 8.95567}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2269,6 +2300,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1507636620937791777, guid: 7097ba7ba649e1f41bba232312bdcbd8, type: 3}
   m_PrefabInstance: {fileID: 1585827814}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1602746347
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3552726249261702214, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_Name
+      value: MangaMinigame
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 29.004547
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.0016165
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.95567
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386312016717102745, guid: 3290137eee011ed7b979784bf8944716, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3290137eee011ed7b979784bf8944716, type: 3}
 --- !u!1001 &1610318740
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3083,3 +3171,4 @@ SceneRoots:
   - {fileID: 832575519}
   - {fileID: 2029293977}
   - {fileID: 1472758233}
+  - {fileID: 1602746347}
