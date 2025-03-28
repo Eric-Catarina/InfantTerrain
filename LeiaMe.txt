@@ -1,0 +1,20 @@
+Esse exercício me ajudou e me ensinou várias áreas que eu provavelmente não estudaria por conta própria, fazendo assim com que eu amplifique meus conhecimentos em técnincas que eu provavelmente não estudaria por conta pŕopria. Isso me deixa mais próximo do meu objetivo de conseguir meu emprego na área.
+
+Gostaria de ter deixado o terreno mais imersivo e os biomas mais características, mas estava enfrentando problemas de performance na minha máquina pessoal.
+Cheguei até a otimizar o LOD, o arquivo de configurações de render e várias outras coisas.
+
+Render gráfico utilizado : URP
+Tamanho do terreno: 300x300x150
+Ferramentas utilizadas: Unity, asset store, GIMP e Blender
+
+Créditos:
+EasyStart Third Person Controller: https://assetstore.unity.com/packages/p/easystart-third-person-controller-278977
+4 Snow Materials [High Quality] [Materials Collection]: https://assetstore.unity.com/packages/2d/textures-materials/4-snow-materials-high-quality-materials-collection-69201
+Simple Water Shader URP: https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449
+Outdoor Ground: https://assetstore.unity.com/packages/p/outdoor-ground-textures-12555
+Skybox Series Free: https://assetstore.unity.com/packages/p/skybox-series-free-103633
+
+Música de ambiente: https://pixabay.com/pt/sound-effects/search/nature/
+
+Todo o resto foi feito por mim com as ferramentas Unity, GIMP e Blender
+Author: Éric Catarina Parreiras - www.linkedin.com/in/eric-parreiras
